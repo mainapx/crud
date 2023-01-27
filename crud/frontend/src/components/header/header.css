@@ -1,0 +1,113 @@
+
+@media(min-device-width:320px) and (max-device-width:415px)
+{
+	#mybox{
+			position:fixed;
+
+	}
+	#myinput:focus
+	{
+		color:white;
+	}
+
+	#myinput
+	{
+		color:white;
+		background-color:#243128;
+		width:56vw;
+		height:10vw;
+		font-size:5vw;
+	}
+	#myul > li{
+		font-size:6vw;
+	}
+	div#togglehandler
+	{
+		display:block;
+	}
+	#togglehandler > a >i{
+		color:white;
+		font-size:10vw;
+	}
+
+	.header_start > h4
+	{
+		color:white;
+		font-weight:bold;
+	}
+	#myul > li >a
+	{
+		color:white;
+		font-weight:bold;
+	}
+	#myinput::placeholder{
+		color:white;
+		font-size:5vw;
+	}
+	#fbtn
+	{
+		background-color:orange;
+	}
+	#fbtn > i{
+		font-size:5vw;
+	}
+	form{
+		position:relative;
+		right:3vw;
+	}
+
+	#headerbar
+	{
+		background-color:black;
+	}
+	#mybox{
+		position:relative;
+		top:6vw;
+		width:110vw;
+	}
+
+	#mybox > li >a{
+		font-size:10vw;
+	}
+	#mytitle
+	{
+		font-size:5vw;
+		font-weight:bold;
+	}
+	#dropitems
+	{
+		position:absolute;
+		z-index: 5;
+	}
+	#mysearchformjumbo{
+		background-color:#E1E8E7;
+		width:65vw;
+		display:none;
+		top:14vw;
+		z-index:10;
+		border:1px solid;
+		position:absolute;
+		left:32vw;
+	}
+	#mysearchformjumbo >  li > span{
+		font-size:5vw;
+	}
+	#mysearchformjumbo > li >i{
+		font-size:5vw;
+	}
+	#fbtn{
+		height:10vw;
+		width:10vw;
+	}
+	#myul li:last-child >#lastavt{
+		font-size:5vw;
+		height:100px;
+		width:100px;
+	
+	}
+	#logbtn{
+		font-size:5vw;
+	}
+
+
+}

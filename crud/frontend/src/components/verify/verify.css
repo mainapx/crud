@@ -1,0 +1,51 @@
+@media(max-width:4096px){
+
+	#otpinputs > li >input
+	{
+		width:50px;
+		font-size:25px;
+		margin-right:20px;
+	}
+	#linkexpire{
+		font-weight:bold;
+		color:blue;
+		font-size:25px;
+	}
+	#myjumbotronverify{
+
+	}
+	#submittext{
+		color:white;
+		font-weight:bold;
+	}
+	.spiner-border{
+		height:40px;
+		font-weight:lighter;
+		width:40px;
+		color:blue;
+	}
+}
+@media(max-width:1100px){
+	
+}
+@media(max-width:1000px){
+	
+}
+@media(max-width:900px){
+	
+}
+@media(max-width:800px){
+	
+}
+@media(max-width:700px){
+	
+}
+@media(max-width:600px){
+	
+}
+@media(max-width:500px){
+	
+}
+@media(max-width:400px){
+	
+}

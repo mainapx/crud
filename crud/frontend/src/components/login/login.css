@@ -1,0 +1,84 @@
+
+@media(max-width:4096px)
+{
+
+	#mylogincard
+	{
+		background-color: white;
+		position:relative;
+	}
+	.card-header
+	{
+		border:none;
+		background-color: white;
+	}
+	.card-body > div > input
+	{
+		width:100%;
+		border:none;
+	}
+	.card-body >div >input:focus
+	{
+		outline:none;
+		box-shadow: 0 0 0 0;
+	}
+	.card-body >div >a
+	{
+		background-color: purple;
+		color:white;width:100%;
+	}
+	#loginerror
+	{
+		background-color:red;
+		color:white;
+	}
+
+}
+
+@media(min-device-width:320px) and (max-device-width:414px)
+{
+	#mylogincard
+	{
+		background-color:#E9ECF7;
+		position:relative;
+		top: 20vw;
+	}
+	.card-header
+	{
+		border:none;
+		background-color:transparent;
+	
+	}
+	.card-body > div > input
+	{
+		width:100%;
+		border:none;
+	}
+	.card-body >div >input:focus
+	{
+		outline:none;
+		box-shadow: 0 0 0 0;
+	}
+	.card-body >div >a
+	{
+		background-color: purple;
+		color:white;width:100%;
+	}
+	#loginerror
+	{
+		background-color:red;
+		color:white;
+	}
+	#myloginbtn{
+		font-size:8vw;
+	}
+	#MsgID{
+		position:relative;
+		top:20vw;
+	}
+	#MsgID > div{
+		font-size:4vw;
+		width:100%;
+	}
+
+}

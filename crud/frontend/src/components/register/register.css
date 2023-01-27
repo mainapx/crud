@@ -1,0 +1,34 @@
+@media(min-device-width:320px) and (max-device-width:415px)
+{
+	#mylogincard > .card-header >center > h4{
+		font-size:10vw;
+	}
+	#mylogincard >.card-body >.form-group >input{
+		font-size:8vw;
+		width:100%;
+
+	}
+	#mylogincard >.card-body >.form-group{
+		line-height:10vw;
+		position:relative;
+	}
+	#mylogincard{
+		width:95vw;
+		position:relative;
+		right:12vw;
+	}
+	#mylogincard >.card-body >.form-group >a{
+		font-size:5vw;
+	}
+	#Errusers{
+		position:relative;
+		top:20vw;
+	}
+	#reg{
+		font-size:4vw;
+		width:100%;
+	}
+	#checkEmailValid{
+		font-size:4vw;
+	}
+}
